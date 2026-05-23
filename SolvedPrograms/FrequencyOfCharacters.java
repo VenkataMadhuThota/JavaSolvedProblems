@@ -1,5 +1,7 @@
+// Problem : Frequency of characters
+// Approach : Nested Loop Technique
+// Time Complexity : O(n²)
 import java.util.*;
-
 public class Main 
 {
     public static void main(String[] args) 

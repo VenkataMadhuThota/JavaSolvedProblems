@@ -1,5 +1,6 @@
-// Problem: Palindrome checking
-// Approach: Two Pointer Technique
+// Problem : Palindrome checking
+// Approach : Two Pointer Technique
+// Time Complexity : O(n)
 import java.util.*;
 public class Main 
 {
