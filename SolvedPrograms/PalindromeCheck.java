@@ -1,4 +1,4 @@
-// Problem : Palindrome checking
+// Problem : Write a Java program to check whether a given string is a palindrome or not.
 // Approach : Two Pointer Technique
 // Time Complexity : O(n)
 import java.util.*;

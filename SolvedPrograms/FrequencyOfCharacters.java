@@ -1,4 +1,4 @@
-// Problem : Frequency of characters
+// Problem : Write a Java program to find the frequency of each character from an array of strings.
 // Approach : Nested Loop Technique
 // Time Complexity : O(n²)
 import java.util.*;
